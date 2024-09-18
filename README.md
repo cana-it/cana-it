@@ -20,7 +20,6 @@ Familiarity:
 📂 Version control tools: SVN, Git
 Other Skills:
 🅰️ Angular, 🌐 Node.js, 🚀 Next.js, 🎨 Bootstrap, 🌀 TailwindCSS, 🎨 SCSS, 🖼️ Photoshop
-🌍 Languages
 
 English:
 🗣️ Basic verbal communication
