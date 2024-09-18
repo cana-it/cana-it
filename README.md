@@ -1,4 +1,4 @@
-👋 Hi, I’m @cana-it
+👋 Hi, I’m Cana
     - 👀 I’m interested in web development, UX/UI design, and automation projects
     - 🌱 I’m currently learning advanced Next.js features and cloud computing technologies
     - 💞️ I’m looking to collaborate on web projects, especially in the nail and real estate industries
