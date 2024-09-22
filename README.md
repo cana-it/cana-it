@@ -67,7 +67,7 @@
 *February 2015 – January 2016*
 
     - Developed both front-end and back-end features for the website Sense Property, VeritasShoes (with: ASP.NET MVC, Ajax, Bootstrap, Javascript, SQL Server, ...)
-    - Build the Cafe Solution Management Software (Window form)
+    - Build the Cafe Solution Management Software (Web application ASP.NET)
     - Performed SEO checks to optimize website visibility and performance
 
 ### PART-TIME WORK
