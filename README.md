@@ -43,7 +43,7 @@
     - Analyzed company requirements and translated them into functional specifications for web-application development.
     - Developed web applications using React and ASP.NET, Nextjs, enhancing user experience and functionality.
     - Managed database systems using SQL server and optimized queries for performance improvements.
-    - Collaborated with IT teams from major partners including LG, TCL, and Avery Dennison, Vietệtt, Momo, ... to develop integrated software solutions. (Connect API to create and tracking order, webhook return order status).
+    - Collaborated with IT teams from major partners including LG, TCL, and Avery Dennison, Vietjet, Momo, ... to develop integrated software solutions. (Connect API to create and tracking order, webhook return order status).
 
 *There are some projects*
 
