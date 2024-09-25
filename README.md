@@ -27,7 +27,7 @@
 
     🅰️ Angular, 🌐 Node.js, 🚀 Next.js, 🎨 Bootstrap, 🌀 TailwindCSS, 🎨 SCSS, 🖼️ Photoshop...
     🧠 Customer requirement analysis skills
-    👋 I have collaborated with the IT teams of major partners such as Sharp, LG, TCL, Avery Dennison, ACB Bank, and Hasaki...
+    👋 I have collaborated with the IT teams of major partners such as Sharp, LG, TCL, and Avery Dennison, Vietjet, Momo, ... to develop integrated software solutions. (Connect API to create and tracking order, webhook return order status)
 
 🗣️ English:
 
