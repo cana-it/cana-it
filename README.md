@@ -61,6 +61,8 @@
     - Developed both front-end and back-end features for the website. (ASP.NET, PHP, SQL Server, MySQL, ...)
     - Conducted testing and debugging to ensure the quality and reliability of the website.
     - Performed SEO checks to optimize website visibility and performance.
+    
+*There are some projects I have worked on at BizMaC: https://github.com/cana-it/cana-it/tree/main/BizMaC*
 
 ### Junior developer 
 **SIYOSA** - Ho Chi Minh City, Vietnam  
@@ -82,3 +84,5 @@
 
     - Github: https://github.com/cana-it
     - Email: cana.lethiyennhi@gmail.com
+
+
