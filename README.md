@@ -62,7 +62,7 @@
     - Conducted testing and debugging to ensure the quality and reliability of the website.
     - Performed SEO checks to optimize website visibility and performance.
     
-*There are some projects I have worked on at BizMaC: https://github.com/cana-it/cana-it/tree/main/BizMaC*
+*There are some projects I have worked on at BizMaC: https://github.com/cana-it/cana-it/tree/main/BizMaC%20Projects*
 
 ### Junior developer 
 **SIYOSA** - Ho Chi Minh City, Vietnam  
