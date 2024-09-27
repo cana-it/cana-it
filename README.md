@@ -1,4 +1,4 @@
-👋 Hi, I’m Cana
+👋 Hi, My name is Cana
 
 *I am a seasoned programmer with 10 years of experience in the field, dedicated to continuous learning and unafraid of skill development to excel in my profession. With strong expertise and a passion for programming, I am confident in my ability to successfully complete any tasks assigned to me.*
 
